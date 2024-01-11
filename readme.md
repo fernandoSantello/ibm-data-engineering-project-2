@@ -54,7 +54,7 @@ To get a local copy up and running, follow the following steps:
 
 1. Clone the repo
    ```sh
-   git clone
+   git clone https://github.com/fernandoSantello/ibm-data-engineering-project-2.git
    ```
 2. Navigate to the project directory.
 3. Run `main.py` to execute the ETL process or view `banks_project.ipynb` for a step by step guide
