@@ -37,7 +37,9 @@ The repository is organized into the following files and folders:
 
 - `/python/main.py`: Main python file, used for executing functions from imported modules
 - `/python/etl_modules/`: Contain all modules for the whole ETL process
+- `/python/tests/`: Contain all the testing of etl_modules
 - `/files/`: Contains the logging report, input .csv and output .csv and .db
+- `.github/workflows/python-tests.yml`: The GitHub Actions Workflow
 - `/notebooks/banks_project.ipynb`: Jupyter Notebook for the project
 
 ## Technologies
