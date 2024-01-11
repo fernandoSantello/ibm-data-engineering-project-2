@@ -1,0 +1,7 @@
+venv/
+
+files/Banks.db
+files/code_log.txt
+files/Largest_banks_data.csv
+
+__pycache__
